@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Raja Ram 👋
 
-<!--
-**Raja-Ram-Codes/Raja-Ram-Codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Science & Engineering Student 
 
-Here are some ideas to get you started:
+I'm a CSE student interested in Python programming, software development and building practical projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+- Python
+- HTML
+- CSS
+- Java Script
+- Git & GitHub
+- Speech Recognition
+- Python Libraries
+
+## 🚀 Projects
+
+### 🤖 Jarvis Voice Assistant
+A Python-based voice assistant that listens for voice commands and performs tasks such as opening websites and playing music.
+
+🔗 [View Project](https://github.com/YOUR_USERNAME/Jarvis-Voice-Assistant)
+
+## 📚 Currently Learning
+
+- Python
+- Web Development
+- Git & GitHub
+- Data Structures & Algorithms
+
+## 🎯 Goal
+
+To improve my programming skills by building practical projects and developing strong software development fundamentals.
+
+---
+
+⭐ Thanks for visiting my profile!
