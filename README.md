@@ -2,7 +2,7 @@
 
 ### Computer Science & Engineering Student 
 
-I'm a CSE student interested in Python programming, software development and building practical projects.
+I'm a CSE student interested in Programming, software development and building practical projects.
 
 ## 🛠️ Skills
 
